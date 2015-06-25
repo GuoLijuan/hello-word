@@ -1,2 +1,3 @@
 # hello-word
-my first repository.
+# my first repository.
+# change somethings here.
